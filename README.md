@@ -14,3 +14,8 @@ This program Calculates the factorial of the number you entered using only loop 
 #Triangle Program ( Purpose )
 
 This program creates a left sided/ angled triangle made by stars using only loop function.
+
+# Mathamatical Table: ( Purpose )
+
+The purpose of mathamatical table is to calculate the table of the desired input number
+(Integer) That can begin and end with the number you assigned .
